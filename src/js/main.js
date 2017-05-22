@@ -1,6 +1,3 @@
-(function () {
-  var doc = document.documentElement;
+import Scrollbar from 'smooth-scrollbar';
 
-  doc.classList.remove('no-js');
-  doc.classList.add('js');
-}());
+Scrollbar.initAll();

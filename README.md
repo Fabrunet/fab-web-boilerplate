@@ -1,2 +1,2 @@
 # Fab Web Boilerplate
-My NPM web boilerplate serving as a basis for developing websites.
+My NPM scripts based web boilerplate serving as a basis for front-end development. 
